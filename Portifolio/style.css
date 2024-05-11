@@ -1,0 +1,52 @@
+
+img{
+    gap: 50px;
+}
+login{
+    padding-left: 900px;
+}
+footer{
+    background-color: rgba(48, 48, 48, 0.4);
+    font-size: 18px;
+}
+#div1{
+    background-color: aliceblue;
+    color: black;
+    height: 55em;
+    width: 40em;
+    margin-left: 29%;
+    padding: 4%;
+}
+#div2{
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    background-color: rgba(158, 158, 158, 0.4);
+    color: rgb(0, 0, 0);
+    height: 10em;
+    width: 40em;
+}
+#div3{
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    background-color: rgba(114, 114, 114, 0.4);
+    height: 10em;
+    width: 40em;
+}
+#div4{
+    display: flex;
+    place-items: center;
+    justify-content: center;
+    background-color: bisque;
+    height: 10em;
+    width: 25em;
+}
+#bg{
+    background-color: dimgrey;
+    padding: 3%;
+}
+#contato{
+    padding-left: 36%;
+    width: 2em;
+}
